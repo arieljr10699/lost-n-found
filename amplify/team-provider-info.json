@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lostnfound-dev-100016-authRole",
+      "UnauthRoleArn": "arn:aws:iam::806714922738:role/amplify-lostnfound-dev-100016-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::806714922738:role/amplify-lostnfound-dev-100016-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-lostnfound-dev-100016-deployment",
+      "UnauthRoleName": "amplify-lostnfound-dev-100016-unauthRole",
+      "StackName": "amplify-lostnfound-dev-100016",
+      "StackId": "arn:aws:cloudformation:us-east-2:806714922738:stack/amplify-lostnfound-dev-100016/e9a976a0-1ddc-11eb-b03a-064ea827a74e",
+      "AmplifyAppId": "d21rbg0de8wfhp"
+    },
+    "categories": {
+      "auth": {
+        "lostnfound7066d3e0": {}
+      }
+    }
+  }
+}
