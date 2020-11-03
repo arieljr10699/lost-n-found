@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Lost n' Found
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sistema de reconocimiento facial concebido para la búsqueda de personas perdidas. 
 
 ## Available Scripts
 
